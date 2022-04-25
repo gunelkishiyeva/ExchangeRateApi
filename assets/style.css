@@ -162,6 +162,7 @@ input[type="radio"]:checked+label {
     border: 1px solid #E5E5E5;
     box-sizing: border-box;
     border-radius: 3px;
+    margin-top: 30px;
 }
 .money-input, .money-input2{
     border: none;
