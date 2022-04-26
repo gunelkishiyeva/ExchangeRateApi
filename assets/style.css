@@ -130,7 +130,9 @@ input[type="radio"]:checked+label {
     color: #fff;
     background-color: #833AE0;
 }
-
+input:focus{
+    outline: none;
+}
 .btn-group {
     border: 1px solid #E5E5E5;
     box-sizing: border-box;
@@ -191,7 +193,7 @@ input[type="radio"]:checked+label {
     }
 }
 
-@media only screen and (max-width: 889px) {
+@media only screen and (max-width: 957px) {
     .list{
         display: none;
     }
